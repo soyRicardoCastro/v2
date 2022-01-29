@@ -1,0 +1,9 @@
+export { default as IconExternal } from './external.jsx';
+export { default as IconFolder } from './folder.jsx';
+export { default as Icon } from './icon.jsx';
+export { default as IconGitHub } from './github.jsx';
+export { default as IconInstagram } from './instagram.jsx';
+export { default as IconLinkedin } from './linkedin.jsx';
+export { default as IconLoader } from './loader.jsx';
+export { default as IconLogo } from './logo.jsx';
+export { default as IconTwitter } from './twitter.jsx';
